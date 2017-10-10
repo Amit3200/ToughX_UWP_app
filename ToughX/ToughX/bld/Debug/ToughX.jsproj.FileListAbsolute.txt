@@ -1,0 +1,16 @@
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bin\Debug\ReverseMap\resources.pri
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bin\Debug\AppxManifest.xml
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bin\Debug\ToughX.build.appxrecipe
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\ResourceHandlingTask.state
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\priconfig.xml
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\priconfig.xml.intermediate
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\layout.resfiles
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\layout.resfiles.intermediate
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\resources.resfiles
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\resources.resfiles.intermediate
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\pri.resfiles
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\pri.resfiles.intermediate
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\qualifiers.txt
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\qualifiers.txt.intermediate
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\ProjectArchitectures.txt

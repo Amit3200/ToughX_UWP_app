@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AMIT</Machine>
+    <WindowsUser>tusha</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6b6445d1-bce3-4294-849e-8e087449dfd4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>33B709EFAA881C6F5B03D77C38E2D11FBD220C0AF2BC2CC1457D5A153767F975</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6b6445d1-bce3-4294-849e-8e087449dfd4_1.0.0.0_neutral__mz9hebn3gdxmp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6b6445d1-bce3-4294-849e-8e087449dfd4_mz9hebn3gdxmp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6b6445d1-bce3-4294-849e-8e087449dfd4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=tusha</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-10T16:08:50.156</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T15:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-10T16:08:20.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-10T16:03:53.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-10T16:03:07.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-10T16:00:07.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T15:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T15:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T15:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T15:39:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-10T15:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-10T15:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-10T15:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-10T15:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-10T15:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-10T15:39:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tusha\Documents\Visual Studio 2015\ToughX\ToughX\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-10-10T16:08:49.572</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
